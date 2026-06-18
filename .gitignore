@@ -1,0 +1,9 @@
+weights/
+input-output/
+
+
+*.pt
+*.mp4
+
+__pycache__/
+.ipynb_checkpoints/
